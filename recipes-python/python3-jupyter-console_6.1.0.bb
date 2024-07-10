@@ -1,8 +1,8 @@
 inherit pypi python_setuptools_build_meta
 
 SUMMARY = "Jupyter notebook"
-LICENSE = "BSD"
-LIC_FILES_CHKSUM = "file://COPYING.md;md5=d235895c780fa844e875697e16e5787b"
+LICENSE = "CLOSED"
+# LIC_FILES_CHKSUM = "file://COPYING;md5=838c366f69b72c5df05c96dff79b35f2"
 
 SRC_URI[sha256sum] = "6f6ead433b0534909df789ea64f0a14cdf9b6b2360757756f08182be4b9e431b"
 
